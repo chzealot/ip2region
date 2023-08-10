@@ -1,4 +1,4 @@
-module ip2region
+module github.com/chzealot/ip2region
 
 go 1.19
 

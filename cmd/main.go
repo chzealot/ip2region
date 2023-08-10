@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"ip2region"
-	"ip2region/assets"
+	"github.com/chzealot/ip2region"
+	"github.com/chzealot/ip2region/assets"
 )
 
 func main() {

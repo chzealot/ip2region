@@ -3,9 +3,9 @@ package ip2region
 import (
 	"encoding/binary"
 	"errors"
+	"github.com/chzealot/ip2region/assets"
 	"github.com/zu1k/nali/pkg/qqwry"
 	"github.com/zu1k/nali/pkg/wry"
-	"ip2region/assets"
 	"net"
 )
 
